@@ -1,0 +1,6 @@
+{
+  "name": "PhishShield SOC - Threat Intelligence & Phishing Analyzer",
+  "description": "Enterprise SOC cyber threat analysis platform featuring real-time email phishing inspection, URL reputation engine, bulk EML triage, and forensic audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
